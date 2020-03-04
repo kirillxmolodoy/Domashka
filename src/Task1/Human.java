@@ -1,4 +1,4 @@
-package inter;
+package Task1;
 
 public class Human implements Jumpable, Runnable {
 
