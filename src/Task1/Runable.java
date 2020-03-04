@@ -1,4 +1,4 @@
-package inter;
+package Task1;
 
 interface Runnable {
     void run();
